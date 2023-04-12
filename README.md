@@ -5,8 +5,8 @@ Update ver : 2023.04.12
 
 ## test Version 
 
-R ver 4.2.3
-Window 11
+![](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=R) R ver 4.2.3
+![](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=microsoft) Window 11
 
 ## Before
 
