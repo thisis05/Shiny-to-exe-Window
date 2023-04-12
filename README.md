@@ -30,8 +30,8 @@ Update ver : 2023.04.12
 ### 2. chocolatey 설치 https://chocolatey.org/install
 
   - Window PowerShell 관리자 권한으로 실행
-  - Run↩️ `choco install innoextract`
-  - Run↩️ `choco install sudo` 
+  - Run↩️ `choco install innoextract` in Powershell
+  - Run↩️ `choco install sudo` in Powershell
   
   
 ### 3. Electron forge 설치
@@ -41,7 +41,7 @@ Update ver : 2023.04.12
 
 ### 4. Cygwin 설치 https://cygwin.com/
 
-   - [Cygwin wget 설치 참조글] (https://superuser.com/questions/693284/wget-command-not-working-in-cygwin)
+   - [Cygwin wget 설치 참조글](https://superuser.com/questions/693284/wget-command-not-working-in-cygwin)
    - wget packages 선택 후 설치
  
  
@@ -54,7 +54,7 @@ Update ver : 2023.04.12
 
 ### 6. repo fork / clone to your local
   
-  - [Repository] (https://github.com/thisis05/Shiny-to-exe-Window)
+  - [Repository](https://github.com/thisis05/Shiny-to-exe-Window)
   
 --- 
 
@@ -70,10 +70,10 @@ Update ver : 2023.04.12
   - Run↩️ `npx create-electron-app [appName]` 
   - My example appName : ShinyBasic
   
-  ** local R version과 1.의 Shiny electron app의 R version이 같아야 함 **
+  **local R version과 1.의 Shiny electron app의 R version이 같아야 함**
 
 
-### 2. 생성된 [appName] 폴더의 src directory를 clone repo의 src directory로 바꿔주기
+### 2. 생성된 📁[appName]의  📁src를 clone repo의 📁src로 바꿔주기
 
 
 ### 3. [appName] 폴더에 다음 파일 copy 
