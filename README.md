@@ -5,8 +5,8 @@ Update ver : 2023.04.12
 
 ## test Version 
 
-![](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=R) R ver 4.2.3
-![](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=microsoft) Window 11
+![](https://img.shields.io/badge/R-white?style=for-the-badge&logo=R) R ver 4.2.3
+![](https://img.shields.io/badge/Window-blue?style=for-the-badge&logo=microsoft) Window 11
 
 ## Before
 
@@ -15,23 +15,23 @@ Update ver : 2023.04.12
 2. chocolatey 설치 https://chocolatey.org/install
 
   - Window PowerShell 관리자 권한으로 실행
-  - Run :  choco install innoextract
-  - Run : choco install sudo 
+  - Run↩️ `choco install innoextract`
+  - Run↩️ `choco install sudo` 
   
 3. Electron forge 설치
 
-  - Window Powershell (or any terminal) -> run : sudo npm i -g @electron-forge/cli
+  - Window Powershell (or any terminal) ⏭️ Run↩️ `sudo npm i -g @electron-forge/cli`
   
 4. Cygwin 설치 https://cygwin.com/
 
-   - https://superuser.com/questions/693284/wget-command-not-working-in-cygwin
+   - https://superuser.com/questions/693284/wget-command-not-working-in-cygwin 참조
    - wget packages 선택 후 설치
    
 5. node, npm 버전 체크
 
   - Using any terminal
-  - Run : node -v (maybe : 19.9.0 in 2023.04.12)
-  - Run : npm -v (maybe : 9.6.3 in 2023.04.12 )
+  - Run↩️ `node -v` (maybe : 19.9.0 in 2023.04.12)
+  - Run↩️ `npm -v` (maybe : 9.6.3 in 2023.04.12 )
 
 6. repo fork / clone to your local
   
