@@ -3,6 +3,9 @@
 Creating Standalone Apps from Shiny with Electron [2023, Window]
 <br>
 Update ver : 2023.04.12
+<br>
+example output & exe : 📁 ShinyBasic 
+
 
 ### Reference
 📓 template for R shiny and electron integration : [Dirk Schumacher](https://github.com/dirkschumacher/r-shiny-electron)
@@ -10,7 +13,7 @@ Update ver : 2023.04.12
 📕 Shiny to exe in Mac OS (m1) : [Jinhwan Kim](https://github.com/zarathucorp/shiny-electron-template-m1-2023)
 
 ### I did
-💡 Customizing for Window : [Yeongho Kim](https://github.com/thisis05)
+💡 Customizing for Window
 
 ---
 
@@ -165,6 +168,9 @@ Update ver : 2023.04.12
 
  - R studio restart
  - Run↩️ `electron-forge start`
+
+<img width="1178" alt="image" src="https://user-images.githubusercontent.com/118661725/231417522-9c95ed78-b832-45f6-847c-03be8f92edda.png">
+
 
 
 ### 8. Exe build
