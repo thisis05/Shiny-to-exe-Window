@@ -3,8 +3,6 @@
 Creating Standalone Apps from Shiny with Electron [2023, Window]
 <br>
 Update ver : 2023.04.12
-<br>
-example output & exe : 📁 ShinyBasic 
 
 
 ### Reference
@@ -103,7 +101,7 @@ example output & exe : 📁 ShinyBasic
   - license에 repository 추가
   - dependencies / devDependencies 수정
   - name / productName / author - name / author - email 수정정  
-  - 수정 후 Run↩️ `sudo npm install in Terminal`
+  - 수정 후 Run↩️ `sudo npm install' in Terminal
 
 ```
 {
@@ -159,7 +157,7 @@ example output & exe : 📁 ShinyBasic
 
 ### 6. add-cran-binary-pkgs.R 수정 
 
-  - user_pkgs에 필요한 packages 추가 
+  - `automagic` package : 📁`shiny` 안에 있는 R file의 package를 자동으로 설치해줌
   - 저장 후 Run↩️ `Rscript add-cran-binary-pkgs.R`
   - ☑ 📁 `r-win/library` 에 설치한 packages가 정상적으로 존재하는지 확인
 
